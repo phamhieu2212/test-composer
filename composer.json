@@ -2,7 +2,7 @@
   "name": "hieupham/test",
   "description": "the first composer package",
   "type": "php",
-  "license": "1",
+  "license": "MIT",
   "authors": [
     {
       "name": "fm",
